@@ -1,2 +1,2 @@
 # LoGo-SSL
-The code will be released soon
+This is the code of LoGo CVPR 2022
